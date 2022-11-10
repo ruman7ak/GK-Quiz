@@ -49,10 +49,10 @@ console.log("Your grand total score is : " + score);
 
 var highscore = [{
   name: "Ruman",
-  score: 10
+  score: 6
 }, {
   name: "don",
-  score: 9
+  score: 5
 }]
 
 console.log("High scores so far: ");
